@@ -2,6 +2,13 @@
 
 Este script automatiza a criação de um projeto Node.js com uma estrutura básica no padrão MVC. Ele cria as pastas e arquivos necessários, instala as dependências, e inicializa um servidor Express pronto para o desenvolvimento.
 
+
+## Vídeo Demonstrativo
+
+[![Vídeo Demonstrativo](https://img.youtube.com/vi/QgbI8L2RXrs/0.jpg)](https://www.youtube.com/watch?v=QgbI8L2RXrs&ab_channel=DevLopes)
+
+
+
 ## 🚀 **Funcionalidades**
 
 - Criação automática de um projeto Node.js com o nome fornecido pelo usuário.

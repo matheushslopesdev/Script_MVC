@@ -23,4 +23,4 @@ Antes de rodar o script, certifique-se de ter os seguintes pré-requisitos:
 
 1. **Clone ou baixe este repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   https://github.com/matheushslopesdev/Script_MVC.git
